@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_name">Please, enter city name</string>
+    <string name="button_name">Enter</string>
+</resources>
