@@ -10,7 +10,7 @@ public class CityName implements Serializable {
     @SerializedName("name")
     private String name;
 
-    public String getName23() {
+    public String getName() {
         return name;
     }
 }
