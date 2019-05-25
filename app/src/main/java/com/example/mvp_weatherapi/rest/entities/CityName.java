@@ -13,4 +13,5 @@ public class CityName implements Serializable {
     public String getName() {
         return name;
     }
+    public String name1;
 }
