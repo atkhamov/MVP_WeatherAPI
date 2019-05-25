@@ -12,4 +12,5 @@ public class CityName {
     public String getName() {
         return name;
     }
+    public String name1;
 }
